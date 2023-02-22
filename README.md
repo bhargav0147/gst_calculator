@@ -1,16 +1,4 @@
-# gst_calc
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://user-images.githubusercontent.com/119872080/220757950-6efb7fb2-6641-49f8-8038-3affc5c2cf14.png" height="30%" width="50%" >
+<img src="https://user-images.githubusercontent.com/119872080/220757954-b7a8193b-90a2-488a-bc9b-aceb6c151d57.png" height="30%" width="50%" >
+</p>
